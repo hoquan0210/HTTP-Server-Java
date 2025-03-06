@@ -13,7 +13,7 @@ A lightweight HTTP server built using Java, designed for handling basic HTTP req
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/HTTP-Server-Java.git
+   git clone https://github.com/hoquan0210/HTTP-Server-Java
    ```
 2. Navigate to the project directory:
    ```sh
